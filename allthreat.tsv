@@ -1,0 +1,21 @@
+domain	baidu.com	EY_threat	90	
+domain	baidu.com	EY_threat	90	
+domain	baidu.com	EY_threat	90	sas
+domain	yahoo.com	EY_threat	test	
+domain	yahoo.com	EY_threat	90	
+domain	yahoo.com	EY_threat	-1	
+domain	yahoo.com	EY_threat	120	
+domaintest	baidu.com	EY_threat	90	
+domain	10.21.21.22	EY_threat	90	
+domain	10.21.21.22	EY_threat	90	
+ip	256.32.555.5	EY_threat	90	
+ip	10.33.4.2	EY_threat	90	
+ip	10.33.4.2	"EY_threat,a"	90	
+domain	baidu.1 1.com	EY_threat	90	
+url	baidu.1 1.com	EY_threat	90	
+url	https://validators.readthedocs.io/en/latest/	EY_threat	90	
+url url	https://validators.readthedocs.io/en/latest/	EY_threat	90	
+url	https://validators.readthedocs.io/en/latest/	EY_threat check	90	
+DOMAIN	yahoo.com	EY_threat	90	
+ip	47.74.41.12	EY_threat	90	
+ip	104.131.123.136	EY_threat	90	
